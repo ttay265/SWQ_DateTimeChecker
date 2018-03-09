@@ -1,0 +1,9 @@
+c:\users\ttay2\documents\visual studio 2017\Projects\DateTimeChecker\bin\Debug\DateTimeChecker.exe.config
+c:\users\ttay2\documents\visual studio 2017\Projects\DateTimeChecker\bin\Debug\DateTimeChecker.exe
+c:\users\ttay2\documents\visual studio 2017\Projects\DateTimeChecker\bin\Debug\DateTimeChecker.pdb
+c:\users\ttay2\documents\visual studio 2017\Projects\DateTimeChecker\obj\Debug\DateTimeChecker.csprojResolveAssemblyReference.cache
+c:\users\ttay2\documents\visual studio 2017\Projects\DateTimeChecker\obj\Debug\DateTimeChecker.Form1.resources
+c:\users\ttay2\documents\visual studio 2017\Projects\DateTimeChecker\obj\Debug\DateTimeChecker.Properties.Resources.resources
+c:\users\ttay2\documents\visual studio 2017\Projects\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.GenerateResource.Cache
+c:\users\ttay2\documents\visual studio 2017\Projects\DateTimeChecker\obj\Debug\DateTimeChecker.exe
+c:\users\ttay2\documents\visual studio 2017\Projects\DateTimeChecker\obj\Debug\DateTimeChecker.pdb
