@@ -7,3 +7,13 @@ c:\users\ttay2\documents\visual studio 2017\Projects\DateTimeChecker\obj\Debug\D
 c:\users\ttay2\documents\visual studio 2017\Projects\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.GenerateResource.Cache
 c:\users\ttay2\documents\visual studio 2017\Projects\DateTimeChecker\obj\Debug\DateTimeChecker.exe
 c:\users\ttay2\documents\visual studio 2017\Projects\DateTimeChecker\obj\Debug\DateTimeChecker.pdb
+C:\Users\ttay2\Documents\Visual Studio 2017\Projects\SWQ_DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csprojResolveAssemblyReference.cache
+C:\Users\ttay2\Documents\Visual Studio 2017\Projects\SWQ_DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.Form1.resources
+C:\Users\ttay2\Documents\Visual Studio 2017\Projects\SWQ_DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.Properties.Resources.resources
+C:\Users\ttay2\Documents\Visual Studio 2017\Projects\SWQ_DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.GenerateResource.Cache
+C:\Users\ttay2\Documents\Visual Studio 2017\Projects\SWQ_DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.exe
+C:\Users\ttay2\Documents\Visual Studio 2017\Projects\SWQ_DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.pdb
+C:\Users\ttay2\Documents\Visual Studio 2017\Projects\SWQ_DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe.config
+C:\Users\ttay2\Documents\Visual Studio 2017\Projects\SWQ_DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.exe
+C:\Users\ttay2\Documents\Visual Studio 2017\Projects\SWQ_DateTimeChecker\DateTimeChecker\bin\Debug\DateTimeChecker.pdb
+C:\Users\ttay2\Documents\Visual Studio 2017\Projects\SWQ_DateTimeChecker\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.CoreCompileInputs.cache
